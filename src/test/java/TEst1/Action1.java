@@ -26,7 +26,10 @@ public class Action1 {
 	 Thread.sleep(3000);
 	 driver.findElement(By.xpath("//a[@title='My Profile']")).click();
 	 
-	 
+	 System.out.println("Git demo project Excution");
+	 System.out.println("Git demo project Excution1");
+	 System.out.println("Git demo project Excution2");
+	 System.out.println("Git demo project Excution3");
 	 
 
 	}
