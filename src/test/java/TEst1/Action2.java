@@ -22,7 +22,7 @@ public class Action2 {
 		
 		driver.findElement(By.xpath("//a[@title='Orders']")).click();
 		
-		
+		System.out.println("Git Demo practice");
 		
 		
 		
